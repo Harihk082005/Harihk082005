@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kizhakanchery Hari Krishna</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kizhakanchery+Hari+Krishna;Cloud+%26+DevOps+Engineer;BE+CSE+Student;Always+learning+new+things+🚀" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A passionate Cloud & DevOps Engineer | BE CSE Student from India</h3>
 
 <p align="center"> 
