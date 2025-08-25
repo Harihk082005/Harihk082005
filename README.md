@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=harihk082005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harihk082005&theme=onedark" alt="github trophies" />
-  </a> 
-</p>
-
 ---
 
 - 🔭 I’m currently working on **Cloud & DevOps mini-projects**  
@@ -24,11 +18,15 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harikrishna-r08/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Harikrishna R" height="30" width="40" />
-</a>
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harikrishna-r08/" target="_blank">
+    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Harihk082005" target="_blank">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="GitHub" width="50" height="50"/>
+  </a>
 </p>
 
 ---
@@ -66,8 +64,4 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harihk082005&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harihk082005&theme=radical" alt="GitHub Streak" />
 </p>
