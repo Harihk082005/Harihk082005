@@ -8,10 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=harihk082005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
 </p>  
 
-<!-- Dancing HK logo -->
+<!-- Dancing HK logo around profile -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Harihk082005/Harihk082005/main/hk-gifdance.svg" 
-       width="220" height="220" alt="HK dancing logo" />
+       width="300" height="300" alt="HK dancing logo" />
 </p>
 
 ---
