@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kizhakanchery+Hari+Krishna;Cloud+%26+DevOps+Engineer;BE+CSE+Student;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kizhakanchery+Hari+Krishna;BE+CSE+Student" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A passionate Cloud & DevOps Engineer | BE CSE Student from India</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=harihk082005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p>
 
 ---
 
@@ -67,4 +63,4 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harihk082005&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+</p>  
