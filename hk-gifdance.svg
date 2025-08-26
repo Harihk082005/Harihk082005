@@ -1,0 +1,42 @@
+<!-- hk-dance.svg -->
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="HK dancing">
+
+  <defs>
+    <!-- Circular path -->
+    <path id="circlePath" d="M110,110 m-80,0 a80,80 0 1,1 160,0 a80,80 0 1,1 -160,0"></path>
+
+    <!-- Soft glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Optional faint track (comment out to hide guide circle) -->
+  <g opacity="0.08">
+    <use xlink:href="#circlePath" fill="none" stroke="#0E75B6" stroke-width="3" stroke-dasharray="6 6"></use>
+  </g>
+
+  <!-- Dancing HK -->
+  <g filter="url(#glow)">
+    <g id="hk-dancer">
+      <text x="0" y="0" font-family="Poppins, Montserrat, Segoe UI, Arial, sans-serif" font-size="56" font-weight="900" fill="#0E75B6">
+        HK
+      </text>
+
+      <!-- Circular motion -->
+      <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#circlePath"></mpath>
+      </animateMotion>
+
+      <!-- Up/down bounce -->
+      <animateTransform attributeName="transform" type="translate" values="0,-8; 0,8; 0,-8" dur="1.2s" repeatCount="indefinite" additive="sum"></animateTransform>
+
+      <!-- Little tilt left-right -->
+      <animateTransform attributeName="transform" type="rotate" values="-12; 12; -12" dur="1.2s" repeatCount="indefinite" additive="sum"></animateTransform>
+    </g>
+  </g>
+</svg>
