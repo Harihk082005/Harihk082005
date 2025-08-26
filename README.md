@@ -10,7 +10,7 @@
 
 <!-- Dancing HK logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harihk082005/Harihk082005/main/assets/hk-ghgifdance.svg" 
+  <img src="https://raw.githubusercontent.com/Harihk082005/Harihk082005/main/hk-ghgifdance.svg" 
        width="160" height="160" alt="HK dancing logo" />
 </p>
 
@@ -69,7 +69,6 @@
 <p>   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harihk082005&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" /> 
 </p>  
-
 <p>   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harihk082005&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> 
 </p>  
