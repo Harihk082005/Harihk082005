@@ -10,8 +10,8 @@
 
 <!-- Dancing HK logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harihk082005/Harihk082005/main/hk-ghgifdance.svg" 
-       width="160" height="160" alt="HK dancing logo" />
+  <img src="https://raw.githubusercontent.com/Harihk082005/Harihk082005/main/hk-gifdance.svg" 
+       width="220" height="220" alt="HK dancing logo" />
 </p>
 
 ---
